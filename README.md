@@ -11,6 +11,6 @@ Phone : 201006989455
 Once you have cloned the project run:
 > PHP 8
 
-> composer install
+> composer install/update
 
 > php -S localhost:8888 -t public/
